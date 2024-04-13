@@ -1,0 +1,13 @@
+{
+    "API_URI":"https://www.banxico.org.mx/SieAPIRest/service/v1/series/",
+    "UDI":{
+        "UDI":"SP68257"
+    },
+    "CETES":{
+        "CETES28_RENDIMIENTO":"SF45470",
+        "CETES91_RENDIMIENTO":"SF45471",
+        "CETES182_RENDIMIENTO":"SF45472",
+        "CETES364_RENDIMIENTO":"SF45473",
+        "CETES730_RENDIMIENTO":"SF349889"
+    }
+}
